@@ -1,0 +1,16 @@
+.NavMenu {
+  display: flex;
+  background: #f1f1f1;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-block: 1rem;
+}
+
+li.nav-item {
+  display: flex;
+  align-items: center;
+  border: none;
+  padding: 0.5rem;
+  margin-left: 4px;
+}
